@@ -5,10 +5,7 @@ class Solution:
             return x * y
 
         def div(x, y):
-            result = x / y
-            if result > 0:
-                return math.floor(result)
-            return math.ceil(result)
+            return int(x / y)
 
         def sub(x, y):
             return x - y
@@ -26,5 +23,5 @@ class Solution:
                 stack.append(operation[token](leftOperand, rightOperand))
             else:
                stack.append(int(token))
-               
+
         return stack.pop()
