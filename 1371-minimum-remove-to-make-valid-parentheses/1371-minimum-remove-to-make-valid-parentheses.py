@@ -1,6 +1,6 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        firstPass = ""
+        firstPass = []
         balance = 0
         for x in s:
             if balance == 0 and x == ")":
@@ -11,8 +11,8 @@ class Solution:
                 elif x == ")":
                     balance -= 1
 
-                firstPass += x
-        ret = ""
+                firstPass.append(x)
+        ret = []
         balance = 0
         for x in firstPass[::-1]:
             if balance == 0 and x == "(":
@@ -22,5 +22,5 @@ class Solution:
                     balance += 1
                 elif x == ")":
                     balance -= 1
-                ret = x + ret
-        return ret
+                ret.append(x)
+        return "".join(ret[::-1])
