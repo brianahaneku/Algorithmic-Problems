@@ -4,7 +4,6 @@ class State(Enum):
     TAG_NAME_START = 1
     TAG_CONTENT_START = 2
     TAG_CONTENT_END = 3
-    CDATA_START = 4
 
 class Solution:
     def isValid(self, code: str) -> bool:
