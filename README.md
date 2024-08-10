@@ -40,4 +40,8 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 |  |
 | ------- |
 | [0591-tag-validator](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0591-tag-validator) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 <!---LeetCode Topics End-->
