@@ -14,7 +14,6 @@ class Solution:
             dp[i] = dp[i - 1] + dp[i - 2]
 
         ret = 0
-        #print(bits)
         i = len(bits) - 1
         while i >= 0:
             if bits[i] == 1:
