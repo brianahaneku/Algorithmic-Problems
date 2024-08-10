@@ -7,6 +7,7 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 |  |
 | ------- |
 | [0548-split-array-with-equal-sum](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0548-split-array-with-equal-sum) |
+| [0654-maximum-binary-tree](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0654-maximum-binary-tree) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -40,8 +41,25 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 |  |
 | ------- |
 | [0591-tag-validator](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0591-tag-validator) |
+| [0654-maximum-binary-tree](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0654-maximum-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0654-maximum-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
