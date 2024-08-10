@@ -32,4 +32,12 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 |  |
 | ------- |
 | [0548-split-array-with-equal-sum](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0548-split-array-with-equal-sum) |
+## String
+|  |
+| ------- |
+| [0591-tag-validator](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0591-tag-validator) |
+## Stack
+|  |
+| ------- |
+| [0591-tag-validator](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0591-tag-validator) |
 <!---LeetCode Topics End-->
