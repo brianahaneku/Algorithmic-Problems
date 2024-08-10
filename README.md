@@ -6,6 +6,7 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 ## Array
 |  |
 | ------- |
+| [0548-split-array-with-equal-sum](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0548-split-array-with-equal-sum) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -23,4 +24,12 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0548-split-array-with-equal-sum](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0548-split-array-with-equal-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0548-split-array-with-equal-sum](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0548-split-array-with-equal-sum) |
 <!---LeetCode Topics End-->
