@@ -8,16 +8,12 @@ class State(Enum):
 
 class Solution:
     def isValid(self, code: str) -> bool:
-        print(len(code))
-        if code[0] != '<':
-            return False
         n = len(code)
         i = 0
         state = State.TAG_NAME_START
         stack = deque()
         contentDeep = 0
         while i < n:
-            #print(i)
             if state == State.TAG_NAME_START:
                 if code[i] != '<':
                     return False
@@ -36,7 +32,6 @@ class Solution:
                     if j == -1:
                         return False
                     i = j + 3
-                    #print(state)
                 elif code[i: i + 2] == '</':
                     state = State.TAG_CONTENT_END
                     i = i + 2
@@ -47,7 +42,6 @@ class Solution:
                     i += 1
             elif state == State.TAG_CONTENT_END:
                 j = code.find('>', i + 1)
-                #print(j, 'here')
                 if j == -1:
                     return False
                 name = code[i: j]
