@@ -37,6 +37,7 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 |  |
 | ------- |
 | [0591-tag-validator](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0591-tag-validator) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 ## Stack
 |  |
 | ------- |
