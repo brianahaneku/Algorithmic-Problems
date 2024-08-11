@@ -62,4 +62,12 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0654-maximum-binary-tree) |
+## Math
+|  |
+| ------- |
+| [1971-incremental-memory-leak](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/1971-incremental-memory-leak) |
+## Simulation
+|  |
+| ------- |
+| [1971-incremental-memory-leak](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/1971-incremental-memory-leak) |
 <!---LeetCode Topics End-->
