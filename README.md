@@ -9,6 +9,7 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 | [0548-split-array-with-equal-sum](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0548-split-array-with-equal-sum) |
 | [0654-maximum-binary-tree](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0654-maximum-binary-tree) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3327-minimum-moves-to-pick-k-ones](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/3327-minimum-moves-to-pick-k-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 |  |
 | ------- |
 | [0548-split-array-with-equal-sum](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/0548-split-array-with-equal-sum) |
+| [3327-minimum-moves-to-pick-k-ones](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/3327-minimum-moves-to-pick-k-ones) |
 ## String
 |  |
 | ------- |
@@ -71,4 +73,12 @@ Collection of LeetCode questions that I've solved in my free time! - Created usi
 |  |
 | ------- |
 | [1971-incremental-memory-leak](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/1971-incremental-memory-leak) |
+## Greedy
+|  |
+| ------- |
+| [3327-minimum-moves-to-pick-k-ones](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/3327-minimum-moves-to-pick-k-ones) |
+## Sliding Window
+|  |
+| ------- |
+| [3327-minimum-moves-to-pick-k-ones](https://github.com/brianahaneku/Algorithmic-Problems/tree/master/3327-minimum-moves-to-pick-k-ones) |
 <!---LeetCode Topics End-->
